@@ -13,13 +13,12 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link">competence1</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">competence2</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">competence3</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">competence4</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">competence5</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">competence6</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">A Propos</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Accueil</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Compétences</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Veille</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Epreuve E4</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Certification</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
       </ul>
     </header>
   </div>
