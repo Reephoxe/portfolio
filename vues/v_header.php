@@ -3,8 +3,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-</head>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    
+  </head>
 <body>
 <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
@@ -15,6 +18,7 @@
       <ul class="nav nav-pills">
         <li class="nav-item"><a href="#" class="nav-link">Accueil</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Compétences</a></li>
+
         <li class="nav-item"><a href="#" class="nav-link">Veille</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Epreuve E4</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Certification</a></li>
@@ -22,3 +26,4 @@
       </ul>
     </header>
   </div>
+  
