@@ -1,28 +1,35 @@
 <footer class="pt-4 d-flex flex-column justify-content-between">
         <div class="container">
-            <div class="row pt-4">
+            <div class=" pt-4">
 
-                <div class="col-lg-3 col-md-4 my-sm-0 mt-4">
+                <div class="my-sm-0 mt-4 container">
                     <h3 class="h4 pb-lg-3 light-300">Information</h3>
-                        <ul class="list-unstyled light-300">
+                        <ul class="list-unstyled light-300 row justify-content-between">
+                            <div class="col">
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> Accueil</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=accueil"> Accueil</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> Compétences</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=competence"> Compétences</a>
+                            </li>
+                            </div>
+                            <div class="col">
+                            <li class="pb-2">
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=veille"> Veille</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> Veille</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=e4"> Epreuve E4</a>
+                            </li>
+                            </div>
+                            <div class="col">
+
+                            <li class="pb-2">
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=certification"> Certification</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> Epreuve E4</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=contact"> Contact</a>
                             </li>
-                            <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> Certification</a>
-                            </li>
-                            <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href=""> SContact</a>
-                            </li>
+                            </div>
                         </ul>
                 </div>
             </div>

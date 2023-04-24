@@ -16,13 +16,12 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link">Accueil</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Compétences</a></li>
-
-        <li class="nav-item"><a href="#" class="nav-link">Veille</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Epreuve E4</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Certification</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+        <li class="nav-item"><a href="index?action=accueil" class="nav-link">Accueil</a></li>
+        <li class="nav-item"><a href="index?action=competence" class="nav-link">Compétences</a></li>
+        <li class="nav-item"><a href="index?action=veille" class="nav-link">Veille</a></li>
+        <li class="nav-item"><a href="index?action=e4" class="nav-link">Epreuve E4</a></li>
+        <li class="nav-item"><a href="index?action=certification" class="nav-link">Certification</a></li>
+        <li class="nav-item"><a href="index?action=contact" class="nav-link">Contact</a></li>
       </ul>
     </header>
   </div>
