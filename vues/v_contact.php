@@ -3,12 +3,12 @@
         <p class="h2 text-center">Contact</p>
         <p class="text-center">Retrouvez mes informations</p>
     </div>
-    <div class="row d-flex d-flex text-center">
-            <div class="col-lg-5">
+    <div class="row  d-flex text-center ">
+            <div class="col-lg-5" id="photoContact">
                 <img class="img-fluid h-50" src="assets/images/user.png">
 
             </div>
-            <div class="col-lg-5">
+            <div class="col-lg-5 ">
                 <ul class="list-group list-group-flush rounded border">
                     <li class="list-group-item">Nom : Martin Violet</li>
                     <li class="list-group-item">Formation : BTS SIO2</li>
