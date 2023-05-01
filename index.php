@@ -1,6 +1,5 @@
 <?php
-    require_once ('modele/bd.inc.php');
-
+    include_once("modele/competence.modele.inc.php");
 
     // header
     include("vues/v_header.php");

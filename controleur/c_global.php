@@ -1,4 +1,5 @@
 <?php
+
 if (!isset($_REQUEST['action']) || empty($_REQUEST['action'])) {
 	$action = "accueil";
 } else {
@@ -9,8 +10,17 @@ switch ($action) {
         include("vues/v_accueil.php");
         break;
     }
+    case 'competence':{
+        if(isset($_REQUEST['c'])){
+            $uneCompetence = getOneCompetence($_REQUEST['c']);
+            include("vues/v_uneCompetence.php");
+        }else{
+            $competences = getAllCompetences();
+            include("vues/v_competences.php");
+        }
+        break;
+    }
 
-    
     case 'contact':{
         include("vues/v_contact.php");
         break;
