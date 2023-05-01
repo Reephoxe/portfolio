@@ -35,5 +35,20 @@ function getOneCompetence($id)
         die();
     }
 }
+function getVeille(){
+    try {
+
+        $monPdo = connexionPDO();
+        $req = 'SELECT id,mois, lien_article, image, description FROM veille';
+        $res = $monPdo->query($req);
+        $result = $res->fetchAll();
+
+        return $result;
+    } catch (PDOException $e) {
+        print "Erreur !: " . $e->getMessage();
+        die();
+    }
+}
+
 
 ?>

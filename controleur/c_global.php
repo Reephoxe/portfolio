@@ -20,6 +20,11 @@ switch ($action) {
         }
         break;
     }
+    case 'veille':{
+        $veille = getVeille();
+        include("vues/v_veille.php");
+        break;
+    }
 
     case 'contact':{
         include("vues/v_contact.php");
