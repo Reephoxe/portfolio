@@ -7,27 +7,27 @@
                         <ul class="list-unstyled light-300 row justify-content-between">
                             <div class="col">
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=accueil"> Accueil</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=accueil"> Accueil</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=competence"> Compétences</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=competence"> Compétences</a>
                             </li>
                             </div>
                             <div class="col">
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=veille"> Veille</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=veille"> Veille</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=e4"> Epreuve E4</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=e5"> Epreuve E5</a>
                             </li>
                             </div>
                             <div class="col">
 
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=certification"> Certification</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=certification"> Certification</a>
                             </li>
                             <li class="pb-2">
-                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index?action=contact"> Contact</a>
+                                <i class="fa-solid fa-chevron-right"></i><a class="text-decoration-none" href="index.php?action=contact"> Contact</a>
                             </li>
                             </div>
                         </ul>

@@ -30,6 +30,10 @@ switch ($action) {
         include("vues/v_contact.php");
         break;
     }
+    case 'e5':{
+        include("vues/v_e5.php");
+        break;
+    }
 
 }
 ?>

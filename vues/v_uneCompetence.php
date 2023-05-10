@@ -22,6 +22,6 @@ foreach($uneCompetence as $uneJustification){
 
 ?>
 <div class="text-center">
-    <a class="border rounded bg-light p-2" href="index?action=competence">Revenir aux compétences</a>
+    <a class="border rounded bg-light p-2" href="index.php?action=competence">Revenir aux compétences</a>
 
 </div>
