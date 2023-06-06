@@ -37,7 +37,7 @@
     <div class="container pt-5">
     <hr>
         <p class="h2 text-center">Tests fonctionnels</p>
-        <a href="assets/images/lesTestsFonctionnels.pdf"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-1.png" alt="tests_fonctionnels-5"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-5.png" alt="tests_fonctionnels-1"><<img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-2.png" alt="tests_fonctionnels-2"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-3.png" alt="tests_fonctionnels-3"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-4.png" alt="tests_fonctionnels-4"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-6.png" alt="tests_fonctionnels-4">/a>
+        <a href="assets/images/lesTestsFonctionnels.pdf"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-1.png" alt="tests_fonctionnels-5"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-5.png" alt="tests_fonctionnels-1"><<img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-2.png" alt="tests_fonctionnels-2"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-3.png" alt="tests_fonctionnels-3"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-4.png" alt="tests_fonctionnels-4"><img class="img-fluid pt-5" src="assets/images/2tests_fonctionnels-6.png" alt="tests_fonctionnels-4">
     </div>
 </section>
 

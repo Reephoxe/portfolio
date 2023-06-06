@@ -4,9 +4,9 @@
  * pour effectuer ensuite des requêtes
 */
 function connexionPDO() {
-    $login = 'utilisateur';
-    $mdp = 'AutreauxDenis';
-    $bd = 'portfolio';
+    $login = 'martin-violet';
+    $mdp = 'uq4$9F0e0';
+    $bd = 'martin-violet';
     $serveur = 'localhost';
 
     try {

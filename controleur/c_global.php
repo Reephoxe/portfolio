@@ -34,6 +34,10 @@ switch ($action) {
         include("vues/v_e5.php");
         break;
     }
+    case 'certification': {
+        include("vues/v_certification.php");
+        break;
+    }
 
 }
 ?>
